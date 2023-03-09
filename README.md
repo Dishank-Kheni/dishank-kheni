@@ -7,15 +7,15 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Frappe](https://img.shields.io/badge/FlutterFlow-%2300f?style=for-the-badge&logo=flutterflow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alvish0407&theme=radical&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dishank-Kheni&theme=radical&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
   
-![Alvish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvish0407&show_icons=true&theme=radical)
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishank-Kheni&show_icons=true&theme=radical)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvish0407&layout=compact&theme=radical)](https://github.com/alvish0407/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Kheni&layout=compact&theme=radical)](https://github.com/Dishank-Kheni/dishank-kheni/blob/main/README.md)
 
-[![Alvish's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvish0407&layout=compact&theme=radical)](https://github.com/alvish0407/github-readme-stats)
+[![Dishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dishank&layout=compact&theme=radical)](https://github.com/alvish0407/github-readme-stats)
 <!--
-**Alvish0407/alvish0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dishank-Kheni/dishank-kheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
