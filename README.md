@@ -3,7 +3,7 @@
          height="45"
          width="45" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=plastic)](https://dishan.de) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](www.linkedin.com/in/dishan-kheni) [![Medium](https://img.shields.io/badge/medium-black.svg?logo=medium&logoColor=white&style=plastic)](https://medium.com/@dishankkheni.dev) [![Wakatime](https://img.shields.io/badge/wakatime-%230077B5.svg?logo=wakatime&logoColor=white&style=plastic)]([www.linkedin.com/in/dishan-kheni]   (https://wakatime.com/@dishank)) [![Upwork](https://img.shields.io/badge/upwork-%8fce00.svg?logo=upwork&logoColor=white&style=plastic)](https://www.upwork.com/freelancers/~01dc140845c38ac9b4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=plastic)](https://twitter.com/KheniDishank) [![Behance](https://img.shields.io/badge/Behance-%2300f.svg?logo=behance&logoColor=white&style=plastic)](https://www.behance.net/dishankheni) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=plastic)](https://dishan.de) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/dishan-kheni) [![Medium](https://img.shields.io/badge/medium-black.svg?logo=medium&logoColor=white&style=plastic)](https://medium.com/@dishankkheni.dev) [![Wakatime](https://img.shields.io/badge/wakatime-%230077B5.svg?logo=wakatime&logoColor=white&style=plastic)]([https://www.linkedin.com/in/dishan-kheni]   (https://wakatime.com/@dishan)) [![Upwork](https://img.shields.io/badge/upwork-%8fce00.svg?logo=upwork&logoColor=white&style=plastic)](https://www.upwork.com/freelancers/~01dc140845c38ac9b4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=plastic)](https://twitter.com/KheniDishank) [![Behance](https://img.shields.io/badge/Behance-%2300f.svg?logo=behance&logoColor=white&style=plastic)](https://www.behance.net/dishankheni) 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Frappe](https://img.shields.io/badge/FlutterFlow-%2300f?style=for-the-badge&logo=flutterflow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   
@@ -13,7 +13,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Kheni&layout=compact&theme=radical)](https://github.com/Dishank-Kheni/dishank-kheni/blob/main/README.md)
 
-[![Dishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dishank&layout=compact&theme=radical)](https://github.com/alvish0407/github-readme-stats)
+[![Dishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dishan&layout=compact&theme=radical)](https://github.com/alvish0407/github-readme-stats)
 <!--
 **Dishank-Kheni/dishank-kheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
